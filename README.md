@@ -1,4 +1,5 @@
 #Problem description
+
 In this project, we consider a network with one central donation receiver that receives stochastic
 supply/donations before serving uncertain demands at a demand node. The aim would be to
 allocate a portion of the supply to each demand node so that fairness in distribution is maintained
